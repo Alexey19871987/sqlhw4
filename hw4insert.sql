@@ -53,7 +53,7 @@ values (5,10);
 insert into genre_executors
 values (5,11);
 insert into album 
-values (1,'The Eminem Show',2002);
+values (1,'The Eminem Show',2020);
 insert into executors_album  
 values (1,1);
 insert into trek  
@@ -101,7 +101,7 @@ values (6,6);
 insert into trek  
 values (12,'Smells Like Teen Spirit',301,6);
 insert into album 
-values (7,'Stadium Arcadium',2006);
+values (7,'Stadium Arcadium',2019);
 insert into executors_album  
 values (7,7);
 insert into trek  
@@ -166,10 +166,6 @@ insert into collector
 values(5,'10-15s', 2019);
 insert into trek_collection 
 values (4,5);
-insert into trek_collection 
-values (5,5);
-insert into trek_collection 
-values (6,5);
 insert into collector 
 values(6,'16-20s', 2020);
 insert into trek_collection 
